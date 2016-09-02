@@ -17,9 +17,9 @@ T3DD10 | July 1-4, 2010      | Elmshorn, Germany      | http://t3dd10.typo3.org/
 T3DD11 | July 7-10, 2011     | Sursee, Switzerland    | http://t3dd11.typo3.org | ![image](images/t3dd/t3dd11_shirt_front.jpg) |
 T3DD12 | April 12-15, 2012   | Munich, Germany        | http://t3dd12.typo3.org | |
 T3DD13 | July 4-7, 2013      | Hamburg, Germany       | http://t3dd13.typo3.org | |
-T3DD14 | June 19-22 2014     | Eindhoven, Germany     | http://t3dd14.typo3.org/  | |
+T3DD14 | June 19-22 2014     | Eindhoven, Germany     | http://t3dd14.typo3.org | |
 T3DD15 | July 16-19, 2015    | Nürnberg, Germany      | http://t3dd15.typo3.org | |
-T3DD15 | Sept 01-04, 2016    | Nürnberg, Germany      | http://t3dd16.typo3.org | |
+T3DD16 | Sept 01-04, 2016    | Nürnberg, Germany      | http://t3dd16.typo3.org | |
 
 
 # T3BOARD
