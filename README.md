@@ -21,6 +21,7 @@ T3DD14 | June 19-22 2014     | Eindhoven, Germany     | http://t3dd14.typo3.org 
 T3DD15 | July 16-19, 2015    | Nürnberg, Germany      | http://t3dd15.typo3.org | ![image](images/t3dd/t3dd15_shirt_front.jpg) |
 T3DD16 | Sept 01-04, 2016    | Nürnberg, Germany      | http://t3dd16.typo3.org | *ritter* |
 T3DD17 | July 13-16, 2017    | Malmö, Sweden          | http://t3dd17.typo3.org | ![image](images/t3dd/t3dd17_shirt_front.jpg) |
+T3DD23 | August 3-5, 2023    | Karlsruhe, Germany     | https://t3dd23.typo3.com/ | ![image](images/t3dd/t3dd23_shirt_front.jpg) |
 
 
 # T3BOARD
