@@ -22,13 +22,13 @@ T3DD16 | Sept 01-04, 2016         | Nürnberg, Germany      | http://t3dd16.typo
 T3DD17 | July 13-16, 2017         | Malmö, Sweden          | http://t3dd17.typo3.org | ![image](images/t3dd/t3dd17_shirt_front.jpg) |
 T3DD18 | June 21-24, 2018         | Düsseldorf, Germany    | http://t3dd18.typo3.org |  |
 T3DD19 | August 01-04, 2019       | Karlsruhe, Germany     | http://t3dd19.typo3.org |  |
-T3DD20 | July 30- August 02, 2019 | Canceled (Karlsruhe, Germany) | http://t3dd20.typo3.org |  |
+T3DD20 | July 30- August 02, 2020 | Canceled (Karlsruhe, Germany) | http://t3dd20.typo3.org |  |
 T3DD21 |                          | | | |
 T3DD22 | August 04-07, 2022       | Karlsruhe, Germany     | http://t3dd22.typo3.org | |
 T3DD23 | August 3-5, 2023         | Karlsruhe, Germany     | https://t3dd23.typo3.com/ | ![image](images/t3dd/t3dd23_shirt_front.jpg) |
 T3DD24 | August 01-03, 2024       | Karlsruhe, Germany     | http://t3dd24.typo3.org | |
-T3DD25 | August 07-09, 2022       | Karlsruhe, Germany     | http://t3dd25.typo3.org | |
-T3DD26 | August 06-08, 2022       | Karlsruhe, Germany     | | |
+T3DD25 | August 07-09, 2025       | Karlsruhe, Germany     | http://t3dd25.typo3.org | |
+T3DD26 | August 06-08, 2026       | Karlsruhe, Germany     | | |
 
 # T3BOARD
 
